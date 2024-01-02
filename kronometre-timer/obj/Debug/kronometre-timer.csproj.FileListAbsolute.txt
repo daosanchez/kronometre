@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\kronometre-timer\kronometre-timer\bin\Debug\kronometre-timer.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\kronometre-timer\kronometre-timer\bin\Debug\kronometre-timer.exe
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\kronometre-timer\kronometre-timer\bin\Debug\kronometre-timer.pdb
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\kronometre-timer\kronometre-timer\obj\Debug\kronometre-timer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\kronometre-timer\kronometre-timer\obj\Debug\kronometre-timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\kronometre-timer\kronometre-timer\obj\Debug\kronometre_timer.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\kronometre-timer\kronometre-timer\obj\Debug\kronometre_timer.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\kronometre-timer\kronometre-timer\obj\Debug\kronometre-timer.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\kronometre-timer\kronometre-timer\obj\Debug\kronometre-timer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\kronometre-timer\kronometre-timer\obj\Debug\kronometre-timer.exe
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\kronometre-timer\kronometre-timer\obj\Debug\kronometre-timer.pdb
